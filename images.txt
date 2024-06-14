@@ -1,3 +1,4 @@
 nacos/nacos-server:v2.2.0-slim
 elasticsearch:7.17.5
 kibana:7.17.5
+seataio/seata-server:2.0.0
