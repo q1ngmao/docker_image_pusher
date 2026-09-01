@@ -1,3 +1,4 @@
 apache/rocketmq:5.3.3
 redis:7.2.4
 nginx:latest
+postgres:18
