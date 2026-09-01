@@ -2,4 +2,4 @@ apache/rocketmq:5.3.3
 redis:7.2.4
 nginx:latest
 postgres:18
-headlamp:v0.45.0
+rancher/mirrored-pause:3.10.2
